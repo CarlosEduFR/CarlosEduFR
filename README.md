@@ -1,6 +1,6 @@
 - :100: Blz eu sou @CarlosEduFR
 - 👀 Eu estou interessado em programação
-- :star: Atualmente estou aprendendo HTML,CSS e C
+- :star: Atualmente estou aprendendo HTML,CSS, C e Java
 - 📫 Entre em contato comigo via email, carlos.freitas11@escola.pr.gov.br
 
 <!---
